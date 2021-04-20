@@ -1,0 +1,131 @@
+.header {
+    background: url(img/Cover.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+.header .navbar {
+    background-color: transparent !important;
+  }
+
+svg {
+    color: rgb(53, 49, 49)
+}
+
+
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.navbar .nav-item {
+    position: relative;
+}
+
+.navbar {
+    position: relative;
+    padding: 1.1rem 1rem;
+    font-size: 18px;
+}
+
+.navbar-icon-link {
+    display: flex;
+    align-items: center;
+    padding: .4rem 0;
+    margin: 0 .5rem;
+    text-decoration: none!important;
+    cursor: pointer;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.btn {
+    height: 38px;
+    line-height: 5px;
+    color: white;
+    border-color: rgb(124, 124, 124);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.bg-gray-300 {
+    background: #dee2e6!important;
+}
+
+.text-muted {
+    color: #868e96!important;
+}
+
+.pb-6 .py-6 {
+    padding-bottom: 6rem!important;
+}
+
+.pt-6, .py-6 {
+    padding-top: 6rem!important;
+}
+
+.bg-gray-300 {
+    background-color: #dee2e6!important;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+body {
+    margin: 0;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background: #fff;
+}
+
+a {
+    color: #3494e6;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+footer {
+    display: block;
+}
+
+.bg-gray-800 {
+    background: #343a40!important;
+}
+
+.text-gray-300 {
+    color: #dee2e6;
+}
+
+.text-gray-300 {
+    color: #dee2e6!important;
+}
+
+.font-weight-light {
+    font-weight: 300!important;
+}
+
+.pb-4, .py-4 {
+    padding-bottom: 1.5rem!important;
+}
+
+.pt-4, .py-4 {
+    padding-top: 1.5rem!important;
+}
+
+.w-2rem {
+    font-size: 25px;
+}
+
+.container-fluid {
+    padding-bottom: 1px;
+}
